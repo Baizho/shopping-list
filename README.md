@@ -23,13 +23,15 @@ A lightweight web app built with vanilla JavaScript for managing your shopping l
 
 ---
 
+## Notes
+Built as a learning project to practice DOM manipulation and persistent storage. No longer maintained.
+
+---
+
 ## Run Locally
 ```bash
 git clone https://github.com/Baizho/Shopping-list-web.git
 cd Shopping-list-web
 # (open index.html in your browser)
 
----
 
-## Notes
-Built as a learning project to practice DOM manipulation and persistent storage. No longer maintained.
